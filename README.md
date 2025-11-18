@@ -41,6 +41,6 @@ Portfolio Website: coming soon
 
 ---
 
-> "Discipline builds results the world can’t ignore."<
+> "Discipline builds results the world can’t ignore."
 
 
