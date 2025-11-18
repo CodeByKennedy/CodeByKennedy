@@ -42,5 +42,5 @@ Portfolio Website: coming soon
 ---
 
 > "Discipline builds results the world can’t ignore."<
-img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/0641e830-8a35-492f-9e8e-c6fed7c474e4" />
+
 
