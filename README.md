@@ -35,7 +35,7 @@ Phoenix, Arizona | B.S. Software Development (Graduating December 2025)
 
 ### Connect With Me
 Email: kennedy@nguyencapital.co  
-Alternate Email: kennedy85302@gmail.com  
+Alternate Email: kennedynguyen.dev@gmail.com 
 LinkedIn: https://www.linkedin.com/in/kennedynguyen-se/  
 Portfolio Website: coming soon
 
