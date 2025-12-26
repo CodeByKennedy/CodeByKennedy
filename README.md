@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Kennedy Nguyen</h1>
 
 **Software Engineer | Python & C++**  
-Phoenix, Arizona | B.S. Software Development (Graduating December 2025)
+Phoenix, Arizona | B.S. Software Development | M.S. Software Engineering & Project Management (Expected Dec 2026)
 
 ---
 
