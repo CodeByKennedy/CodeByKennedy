@@ -24,6 +24,7 @@ Phoenix, Arizona | B.S. Software Development | M.S. Software Engineering & Proje
 ### Current Projects
 - **TriPlaySuite** — Python-based game suite including Chess, Tic-Tac-Toe and RNG Guesser
 - **Shadow Realms** — Indie roguelike game in active development
+- ShipStream Backend (FastAPI • SQL • Backend Architecture)
 
 ---
 
